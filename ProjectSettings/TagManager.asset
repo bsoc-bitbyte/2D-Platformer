@@ -41,3 +41,27 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGround#1
+    uniqueID: 520224089
+    locked: 0
+  - name: BackGround#2
+    uniqueID: 2139647563
+    locked: 0
+  - name: GateStructure
+    uniqueID: 2472330217
+    locked: 0
+  - name: GateWay
+    uniqueID: 2870010209
+    locked: 0
+  - name: Terrain
+    uniqueID: 2771707757
+    locked: 0
+  - name: Poles
+    uniqueID: 2250886593
+    locked: 0
+  - name: Lava
+    uniqueID: 527443311
+    locked: 0
+  - name: Stones
+    uniqueID: 577416337
+    locked: 0
